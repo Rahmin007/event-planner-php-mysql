@@ -46,4 +46,4 @@ event-planner-php-mysql/
 
 ## Course
 
-CSE370 — Database Systems / Web Development, BRACU (2023)
+CSE370 — Database Systems, BRACU 
